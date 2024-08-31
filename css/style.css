@@ -1,0 +1,16 @@
+.background{
+    background-color: rgb(62, 106, 251);
+}
+.alert-success{
+    width: 60%;
+    float:right ;
+    text-align: right;
+}
+.alert-primary{
+    width: 60%;
+    float: left;
+}
+.mid-section{
+    height: 70vh;
+    overflow: auto;
+}
